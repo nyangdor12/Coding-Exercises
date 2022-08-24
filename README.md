@@ -1,2 +1,1 @@
-"# Coding-Exercises" 
-"# Coding-Exercises" 
+This is a repository of my coding exercises, including some assignments from Okanagan College.
